@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="40" viewBox="0 0 55 40">
+  <defs>
+    <clipPath id="clip-icon-bw-events">
+      <rect width="55" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="icon-bw-events" clip-path="url(#clip-icon-bw-events)">
+    <path id="Path_3472" data-name="Path 3472" d="M-1733.073-7047.4v24.048h31.806v-24.223Z" transform="translate(1745.073 7059.862)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <g id="Rectangle_980" data-name="Rectangle 980" transform="translate(17.156 4.359)" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="1.1">
+      <rect width="4.245" height="6.189" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="3.145" height="5.089" rx="0.45" fill="none"/>
+    </g>
+    <g id="Rectangle_980-2" data-name="Rectangle 980" transform="translate(34.138 4.359)" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="1.1">
+      <rect width="4.245" height="6.189" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="3.145" height="5.089" rx="0.45" fill="none"/>
+    </g>
+    <path id="Path_3471" data-name="Path 3471" d="M-1729.129-7054.4h-3.944v-8.928h31.806v8.928H-1726.1" transform="translate(1745.073 7071.221)" fill="#d1d4db" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <g id="Rectangle_995" data-name="Rectangle 995" transform="translate(15.906 20)" fill="#d1d4db" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="6" height="6" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="4.9" height="4.9" rx="0.45" fill="none"/>
+    </g>
+    <g id="Rectangle_1000" data-name="Rectangle 1000" transform="translate(15.906 28)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="6" height="6" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="4.9" height="4.9" rx="0.45" fill="none"/>
+    </g>
+    <g id="Rectangle_996" data-name="Rectangle 996" transform="translate(24.906 20)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="6" height="6" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="4.9" height="4.9" rx="0.45" fill="none"/>
+    </g>
+    <g id="Rectangle_999" data-name="Rectangle 999" transform="translate(24.906 28)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="6" height="6" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="4.9" height="4.9" rx="0.45" fill="none"/>
+    </g>
+    <g id="Rectangle_997" data-name="Rectangle 997" transform="translate(33.906 20)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="6" height="6" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="4.9" height="4.9" rx="0.45" fill="none"/>
+    </g>
+    <g id="Rectangle_998" data-name="Rectangle 998" transform="translate(33.906 28)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="6" height="6" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="4.9" height="4.9" rx="0.45" fill="none"/>
+    </g>
+  </g>
+</svg>

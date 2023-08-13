@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="40" viewBox="0 0 55 40">
+  <defs>
+    <clipPath id="clip-Icon-bw-careercenter">
+      <rect width="55" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-bw-careercenter" clip-path="url(#clip-Icon-bw-careercenter)">
+    <path id="Subtraction_14" data-name="Subtraction 14" d="M4623.641,7022.078h-7.551l.146-2.922.145-2.878.2-3.456,6.6.852.465,8.4h0Zm-6.649-16.624h0l.12-2.128,5.453-.7.108,1.945-5.68.888Zm5.162-10.251h0l-4.542-.712.14-2.49h4.226l.178,3.2Z" transform="translate(-4591.98 -6987)" fill="#d1d4db" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="Path_3595" data-name="Path 3595" d="M-3210.685-6950.2l5.277-.84,4.909,6.323-4.909,6.356-23.429-3.023v-6l15.337-2.4" transform="translate(3248.857 6966.615)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="Path_3596" data-name="Path 3596" d="M-3218.651-6950.2l-5.277-.84-4.909,6.323,4.909,6.356,23.429-3.023v-6l-15.337-2.4" transform="translate(3235.837 6956.39)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+  </g>
+</svg>

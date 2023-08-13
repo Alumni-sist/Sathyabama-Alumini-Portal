@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="40" viewBox="0 0 55 40">
+  <defs>
+    <clipPath id="clip-icon-bw-job-board">
+      <rect width="55" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="icon-bw-job-board" clip-path="url(#clip-icon-bw-job-board)">
+    <path id="Subtraction_12" data-name="Subtraction 12" d="M5163.394,7010.257H5130v-15.838h13.712a3.179,3.179,0,0,0-.292,1.339,3.209,3.209,0,0,0,6.418,0,3.178,3.178,0,0,0-.292-1.339h13.848v15.837Z" transform="translate(-5119.55 -6974.843)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="Path_2249" data-name="Path 2249" d="M2132.819,1606.345v-3.537a1.712,1.712,0,0,1,1.727-1.77c1.774-.071,10.9,0,10.9,0a1.717,1.717,0,0,1,1.74,1.744c.031,1.747,0,3.563,0,3.563" transform="translate(-2112.872 -1597.175)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="Subtraction_11" data-name="Subtraction 11" d="M5144.678,7003.971H5130V6992h35.949v11.969h-14.869c0-.075.008-.148.008-.225a3.208,3.208,0,0,0-6.417,0c0,.073,0,.146.008.225Z" transform="translate(-5120.799 -6982.83)" fill="#d1d4db" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+  </g>
+</svg>

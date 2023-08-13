@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="40" viewBox="0 0 55 40">
+  <defs>
+    <clipPath id="clip-icon-bw-newsroom">
+      <rect width="55" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="icon-bw-newsroom" clip-path="url(#clip-icon-bw-newsroom)">
+    <path id="Path_3579" data-name="Path 3579" d="M-3590.079-6947h31.821v24.309l1.7,2.73v.51h-31.591s-1.866-.558-1.935-3.24S-3590.079-6947-3590.079-6947Z" transform="translate(3598.109 6953.226)" fill="none"/>
+    <path id="Path_3467" data-name="Path 3467" d="M32,0V8.184H0V0" transform="translate(40.02 14.185) rotate(180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="Path_3468" data-name="Path 3468" d="M35.8,14.02V4.235s.4-4.133-2.713-4.2S0,.031,0,.031" transform="translate(43.822 33.774) rotate(180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <path id="Path_3473" data-name="Path 3473" d="M23.366,0H0" transform="translate(35.538 11.605) rotate(180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="1.1"/>
+    <path id="Path_3482" data-name="Path 3482" d="M11.576,0H0" transform="translate(23.748 17.266) rotate(180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="1.1"/>
+    <path id="Path_3483" data-name="Path 3483" d="M11.576,0H0" transform="translate(23.748 22.926) rotate(180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="1.1"/>
+    <path id="Path_3484" data-name="Path 3484" d="M23.366,0H0" transform="translate(35.538 28.586) rotate(180)" fill="none" stroke="#191919" stroke-linecap="round" stroke-width="1.1"/>
+    <path id="Path_3476" data-name="Path 3476" d="M6.895,10.463H0V3.4S.666-.037,3.674,0,7.466,3.4,7.466,3.4V13.916" transform="translate(47.486 33.745) rotate(180)" fill="#d1d4db" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1"/>
+    <g id="Rectangle_994" data-name="Rectangle 994" transform="translate(27.599 16.214)" fill="#d2d4da" stroke="#191919" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1">
+      <rect width="8.716" height="7.873" rx="1" stroke="none"/>
+      <rect x="0.55" y="0.55" width="7.616" height="6.773" rx="0.45" fill="none"/>
+    </g>
+  </g>
+</svg>
